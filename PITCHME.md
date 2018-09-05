@@ -1,1 +1,3 @@
-# Microservice Architecture Discussion
+## Microservice Architecture Discussion
+---
+## Pros
