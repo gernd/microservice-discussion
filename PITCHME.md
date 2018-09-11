@@ -40,8 +40,8 @@
 TODO
 ---
 ## Sources 
-- Sam Newman, Building Microservices, Chapter 1: Microservices
-- https://martinfowler.com/articles/microservice-trade-offs.html
+- Sam Newman, Building Microservices, Chapter 1: Microservices - Key Benefits
+- Martin Fowler, Microservices Trade-offs, https://martinfowler.com/articles/microservice-trade-offs.html
 --- 
 ## Thanks for discussing!
 - https://www.github.com/gernd/microservice-discussion
