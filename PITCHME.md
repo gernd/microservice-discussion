@@ -16,11 +16,31 @@
 - monolith: all or nothing can be scaled
 - ms architecture: dedicated services can be scaled depending on their workload
 ---
+### Ease of deployment
+- changing and deploying one single service is less likely to bring the whole system down
+- services can be deployed independently
+- deployment problems can be isolated more quickly
+- less fear to release -> more releases
+- features get shipped more quickly
+---
+### Organization alignment
+- distributed teams (one team per service) is possible
+- smaller teams working on smaller codebases tend to be more productive
+- teams can work with independent processes (scrum, kanban, ...)
+--- 
+### Composability
+- microservices allow for functionality being consumed from different parties in different ways for different purposes
+- e.g. useable from other services, web apps, desktop applications…
+--- 
+### Optimizing for replaceability
+- small services should be rewriteable in a couple of weeks
+- less fear to throw things away or change existing services
+---
 ## Cons
 TODO
 ---
 ## Sources 
-- TODO Newman Microservice book
+- Sam Newman, Building Microservices, Chapter 1: Microservices
 - TODO Fowler Blogpost
 --- 
 ## Thanks for discussing!
