@@ -41,7 +41,7 @@ TODO
 ---
 ## Sources 
 - Sam Newman, Building Microservices, Chapter 1: Microservices
-- TODO Fowler Blogpost
+- https://martinfowler.com/articles/microservice-trade-offs.html
 --- 
 ## Thanks for discussing!
 - https://www.github.com/gernd/microservice-discussion
