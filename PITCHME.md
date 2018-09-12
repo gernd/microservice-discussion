@@ -37,7 +37,12 @@
 - less fear to throw things away or change existing services
 ---
 ## Cons
-TODO
+--- 
+### Distributed system
+- performance decreases (communication via network)
+- addded complexicity for asynchronous messaging
+- services might be not reachable -> more effort for error handling
+- distributed systems are harder to debug
 ---
 ## Sources 
 - Sam Newman, Building Microservices, Chapter 1: Microservices - Key Benefits
