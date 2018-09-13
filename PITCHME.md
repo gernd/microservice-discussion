@@ -37,12 +37,21 @@
 - less fear to throw things away or change existing services
 ---
 ## Cons
---- 
+---
 ### Distributed system
 - performance decreases (communication via network)
 - addded complexicity for asynchronous messaging
 - services might be not reachable -> more effort for error handling
 - distributed systems are harder to debug
+---
+### Eventual consistency
+- microservices imply autonomy and decentralized data management
+- distributed transactions are often not used (especially across domains)
+- developers have to be aware of consistency issues
+---
+### Operational complexity
+- continiuous delivery essential for microservices
+- more services to monitor, deploy and manage
 ---
 ## Sources 
 - Sam Newman, Building Microservices, Chapter 1: Microservices - Key Benefits
