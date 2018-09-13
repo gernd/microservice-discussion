@@ -1,5 +1,5 @@
 ### Microservice Architecture Discussion
-![jambit logo]("jambit.png")
+![jambit logo]("https://github.com/gernd/microservice-discussion/blob/master/jambit-logo.svg")
 ---
 ## Pros
 ---
