@@ -1,6 +1,8 @@
 ### Microservice Architecture Discussion
 ![Logo](jambit_logo.png)
 ---
+## TODO: Agenda (what will be presented, what is the idea -> pros/cons, discussion about real world experience about * every slide * 
+---
 ## Pros
 ---
 ### Technology Heterogeneity
