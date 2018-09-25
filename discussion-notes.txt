@@ -1,0 +1,33 @@
+technology heterogeneity
+
+- worked in practice
+- especially for persistence it worked
+- different databases can also be used with one service
+
+resilience
+- system fails even if one microservice fails
+- authentication service should instance
+- reality: service took over when database failed
+- difference to SOA: not vendor-related
+    - no broker, registry required
+- ecommerce systems: orders should be placed at any time
+
+individual scaling
+    - used in actual projects
+
+ease of deployment
+ - not easy to deploy but quicker (all kind of tests/...)
+ - infrastructure needed for deployment
+ - CI/CD can also be used for monothilic architecture
+
+organization alignment
+ - two pizza team
+ - monolith split up in different business teams
+ - different processes / different countries
+
+- replaceability
+    - ok, but still costs
+
+- distributed system
+   - much more memory consumption
+   - 
