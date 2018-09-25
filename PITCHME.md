@@ -43,7 +43,7 @@
 ---
 ### Distributed system
 - performance decreases (communication via network)
-- added complexicity for asynchronous messaging
+- added complexity for asynchronous messaging
 - services might be not reachable -> more effort for error handling
 - distributed systems are harder to debug
 ---
