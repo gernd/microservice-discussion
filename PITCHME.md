@@ -1,7 +1,10 @@
 ### Microservice Architecture Discussion
 ![Logo](jambit_logo.png)
 ---
-## TODO: Agenda (what will be presented, what is the idea -> pros/cons, discussion about real world experience about * every slide * 
+## What is this about?
+- discussion of several pros/cons for microservice architecture
+- each slide describes one point (taken from the book "Building Microservices" by Sam Newman
+- share your "real world experience" 
 ---
 ## Pros
 ---
