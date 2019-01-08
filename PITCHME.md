@@ -3,7 +3,6 @@
 ---
 ## What is this about?
 - discussion of several pros/cons for microservice architecture
-- each slide describes one point (taken from the book "Building Microservices" by Sam Newman
 - share your "real world experience" 
 ---
 ## Pros
